@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Legend</h1>
 <h3 align="center">Small Developer | Still Learning | Interested on Technology</h3>
 
-- 🔭 I’m currently working on **Game Development**
+- Youtuber
+- Good Friend
+- Electronics Enthu
+- Gamer
+- That's it
 
 
 <p align="left">
