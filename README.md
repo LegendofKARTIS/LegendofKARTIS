@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Legend</h1>
+<h1 align="center">Hi 👋, I'm KARTIS</h1>
 <h3 align="center">Small Developer | Still Learning | Interested on Technology</h3>
 
 - Youtuber
