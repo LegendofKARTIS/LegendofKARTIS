@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm KARTIS</h1>
 <h3 align="center">Small Developer | Still Learning | Interested on Technology</h3>
 
+Aiming for the Informative Contents to reach common people to align their Innovative Ideas
+▶️ 60k + subs on Youtube
+"Tech Towards Glory" - our motto
+
 - Youtuber
 - Good Friend
 - Electronics Enthu
