@@ -7,8 +7,8 @@ Aiming for the Informative Contents to reach common people to align their Innova
 "Tech Towards Glory" - our motto
 
 - Youtuber
+- Technophile
 - Good Friend
-- Electronics Enthu
 - Gamer
 - That's it
 
