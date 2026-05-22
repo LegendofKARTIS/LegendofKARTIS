@@ -3,7 +3,7 @@
 
 Aiming for the Informative Contents to reach common people to align their Innovative Ideas
 <br>
-▶️ 60k + subs on Youtube <br>
+▶️ 75k + subs on Youtube <br>
 "Tech Towards Glory" - our motto
 
 - Youtuber
