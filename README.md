@@ -1,10 +1,27 @@
 <h1 align="center">Hi 👋, I'm KARTIS</h1>
 <h3 align="center">Small Developer | Still Learning | Interested on Technology</h3>
 
-Aiming for the Informative Contents to reach common people to align their Innovative Ideas
+KARTIS — a channel focused on building real-world tech, not just explaining it.
+
+Here, I create hands-on projects using Arduino, ESP32, ESP8266, Raspberry Pi, and AI tools, with clear explanations and practical implementation. Every video is designed to help you understand how things actually work in real-world projects.
+
+This channel covers:
+• Arduino & ESP32 projects (beginner to advanced)
+• Raspberry Pi builds and smart display systems
+• IoT, sensors, and automation projects
+• Clean UI design for embedded displays
+• 3D modelling tutorials using Fusion 360
+• LoRa testing and development
+
+From small experiments to unique builds like smart assistants and sensor-based systems, everything is created with a focus on learning by doing.
+
+If you're a student, developer, or tech enthusiast interested in electronics, coding, IoT, embedded systems, and AI, this channel is for you.
+
+No theory overload. Just real builds, real results.
+
+Tech Towards Glory - is our motto
 <br>
-▶️ 75k + subs on Youtube <br>
-"Tech Towards Glory" - our motto
+▶️ 85k + subs on Youtube <br>
 
 - Youtuber
 - Technophile
