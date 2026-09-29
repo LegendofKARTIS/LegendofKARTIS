@@ -21,7 +21,7 @@ No theory overload. Just real builds, real results.
 
 Tech Towards Glory - is our motto
 <br>
-▶️ 85k + subs on Youtube <br>
+▶️ 95k + subs on Youtube <br>
 
 - Youtuber
 - Technophile
